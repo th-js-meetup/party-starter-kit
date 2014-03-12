@@ -1,4 +1,4 @@
-party-starter-kit [![Build Status](https://travis-ci.org/rgsingh/party-starter-kit.png?branch=master)](https://travis-ci.org/rgsingh/party-starter-kit)
+party-starter-kit [![Build Status](https://travis-ci.org/th-js-meetup/party-starter-kit.png?branch=master)](https://travis-ci.org/th-js-meetup/party-starter-kit)
 =====================
 
 
